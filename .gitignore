@@ -1,0 +1,23 @@
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files created by the script
+.one-click-badass-backup-*/
+
+# Local customizations
+local-config.sh
